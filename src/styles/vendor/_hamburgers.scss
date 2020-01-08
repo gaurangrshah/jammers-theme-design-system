@@ -1,0 +1,16 @@
+$hamburger-types: (
+  collapse
+) !default;
+
+$hamburger-padding-x                       : 5px;
+$hamburger-padding-y                       : 5px;
+$hamburger-layer-width                     : 25px;
+$hamburger-layer-height                    : 3px;
+$hamburger-layer-spacing                   : 6px;
+$hamburger-layer-color                     : $gray-600;
+$hamburger-layer-border-radius             : 4px;
+$hamburger-hover-opacity                   : 1;
+$hamburger-hover-transition-duration       : 0.05s;
+$hamburger-hover-transition-timing-function: linear;
+
+@import '~hamburgers/_sass/hamburgers/hamburgers';

@@ -1,0 +1,14 @@
+@import 'global/variables';
+
+@import 'theme';
+
+@import '~bootstrap/scss/bootstrap';
+@import '~animate.css/animate';
+@import 'vendor/hamburgers';
+
+@import 'global/keyframes';
+@import 'global/mixins';
+
+@import 'base';
+
+@import '../components/test.scss';
